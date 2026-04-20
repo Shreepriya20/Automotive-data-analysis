@@ -31,7 +31,8 @@ An end-to-end automotive telemetry analytics system built using Python and Strea
 ---
 
 ## 📸 Demo
-(Add your demo link here if available)
+https://drive.google.com/file/d/16mwtLppmw3lonABFGUOlDG4AHe6xRpfT/view?usp=sharing
+
 
 ---
 

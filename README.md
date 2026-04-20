@@ -1,6 +1,6 @@
 # 🚗 Automotive Data Analysis Dashboard
 
-An end-to-end **automotive telemetry analytics system** built using Python and Streamlit to process, analyze, and visualize **time-series vehicle data at scale (10k+ records)**.
+An end-to-end **automotive telemetry analytics system** built using Python and Streamlit to process, analyze, and visualize **time-series vehicle data at scale**.
 
 ---
 
@@ -14,11 +14,11 @@ Designed with a **modular, production-style architecture**, it mirrors how moder
 
 ## 🎯 Key Features
 
-- 📊 Processed **10,000+ vehicle telemetry records** (speed, RPM, throttle, engine temperature)
+- 📊 Processed ** vehicle telemetry records** (speed, RPM, throttle, engine temperature)
 - ⚙️ Built scalable **data preprocessing & feature engineering pipelines**
 - 🚗 Implemented **driving behavior classification** (aggressive, normal, braking)
 - 🚨 Designed **anomaly detection system** (overspeeding, harsh acceleration, overheating)
-- 🔍 Performed **cruise control analysis (GRA FOC ACTIVE signals)**
+- 🔍 Performed **cruise control analysis**
 - 📈 Developed **interactive Streamlit dashboard** for real-time visualization
 
 ---
@@ -123,4 +123,3 @@ This project demonstrates the ability to:
 **Shreepriya Karane**  
 AI & Data Engineer  
 
----
